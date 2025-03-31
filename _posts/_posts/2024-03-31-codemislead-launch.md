@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I Don't Code — I Design Thought Structures"
-date:   2024-05-01 00:00:00 +0000
+date:    2025-03-31 11:38:00 +0000
 categories: launch story
 ---
 

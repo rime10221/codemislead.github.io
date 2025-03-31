@@ -1,0 +1,23 @@
+title: CodeMislead
+email: loopdemongpt@gmail.com
+description: >
+  A blog documenting the creation of GPTs that don’t just debug code — they debug the way we think.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://codemislead.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation menu
+header_pages:
+  - index.md
+  - about.md
+
+# Social links (optional, can add more later)
+github_username: rime10221
+
+# Google Analytics (optional)
+google_analytics: ""
